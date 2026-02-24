@@ -45,6 +45,10 @@ git commit -m "someMessage"
 
 3) Push - deploy changes to server / github
 git push origin main
+<br>
+git push - normal command
+origin - the name of the our repo
+main - branch name
 
 
 
