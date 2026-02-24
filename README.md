@@ -24,3 +24,22 @@ Git Commands: -
 4) git clone <some Link> -- to clone all the files from the folder to VS Code from Github or our local system (laptop/desktop
 5) git status  -- displays the state of code 
 6) cd -- Change Directory -- to change our folder in command prompt
+
+
+There are 4 types of status
+1) untracked : - new files created and not commited
+2) modified : - updated the file and not commited
+3) staged : - 
+4) unmodified: - unchanged/ no changes required.
+
+Staged means adding file , not commit
+
+there are 2 steps: - add --> commit == Staged --> Commit
+
+add - add changes /staged changes
+ git add <fileName> - to add specific files
+ git add . - to add all files
+
+commit - deploy changes to github
+git commit -m "someMessage"
+
