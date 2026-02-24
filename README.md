@@ -1,3 +1,5 @@
 # FirstGitRepository
 
-This is my First Git Repository, and .md = mark down
+This is my First Git Repository, 
+<br>
+and .md = mark down
