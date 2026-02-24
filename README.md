@@ -36,10 +36,15 @@ Staged means adding file , not commit
 
 there are 2 steps: - add --> commit == Staged --> Commit
 
-add - add changes /staged changes
+1) add - add changes /staged changes
  git add <fileName> - to add specific files
  git add . - to add all files
 
-commit - deploy changes to github
+2) commit - commit the changes
 git commit -m "someMessage"
+
+3) Push - deploy changes to server / github
+git push origin main
+
+
 
